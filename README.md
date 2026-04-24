@@ -1,8 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
-
-<h2 align="left">Automation Engineer  </h2>
+<h1 align="center">Hi 👋, I'm Ranjeeta</h1>
+<h3 align="center">Interest in automation and enjoy designing and implementing efficient, reusable solutions that improve productivity</h3>
 
 ###
 
