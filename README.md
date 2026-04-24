@@ -12,8 +12,8 @@
 
 <p align="left">
   📚 I'm currently learning  AI, LLMs<br>
-  🎯 Goals: ...<br>
-  🎲 Fun fact: ...</p>
+
+  
 
 ###
 
