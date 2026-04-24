@@ -1,6 +1,6 @@
 ###
 <h1 align="center">Hi 👋, I'm Ranjeeta</h1>
-<h3 align="center">Interest in automation and enjoy designing and implementing efficient, reusable solutions that improve productivity</h3>
+<h4 align="left">Interest in automation and enjoy designing and implementing efficient, reusable solutions that improve productivity</h4>
 
 ###
 
