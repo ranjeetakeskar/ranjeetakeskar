@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Test Automation Engineer | SDET </h2>
+<h2 align="left">Test Automation Engineer  </h2>
 
 ###
 
