@@ -1,15 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ranjeeta Keskar</h1>
-- 🌱 I’m currently learning **AI, LLMs**
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 📫 How to reach me **ranjeeta.keskar@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">My name is Ranjeeta</p>
+
+###
+
+<h2 align="left">Software Automation Engineer</h2>
+
+###
+
 <p align="left">
-<a href="https://linkedin.com/in/ranjeetakeskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeetakeskar" height="30" width="40" /></a>
+  📚 I'm currently learning  AI, LLMs<br>
+  🎯 Goals: ...<br>
+  🎲 Fun fact: ...</p>
 
-<a href="https://www.leetcode.com/r_keskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r_keskar" height="30" width="40" /></a>
+###
 
-</p>
+<h2 align="left">I code with</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+</div>
+
+###
