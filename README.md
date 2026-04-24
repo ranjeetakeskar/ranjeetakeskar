@@ -1,5 +1,5 @@
 ###
-<h1 align="center">Hi 👋, I'm Ranjeeta</h1>
+<h1 align="center">Hi 👋</h1>
 <h4 align="left">Interest in automation and enjoy designing and implementing efficient, reusable solutions that improve productivity</h4>
 
 ###
